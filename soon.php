@@ -11,7 +11,7 @@
     <div class="container coming-sson">
         <h1>This page is currently down</h1>
         <p>Check back later</p>
-        <a href="index.php">Back home</a>
+        <a href="index.html">Back home</a>
     </div>
 </body>
 <script src="api/js/script.js"></script>
