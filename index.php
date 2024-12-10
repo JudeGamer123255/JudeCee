@@ -1,10 +1,3 @@
-<php
-$facebook = "https://www.facebook.com/judeanthonycervera/"
-$ig = "https://www.instagram.com/judeanthonypcervera/"
-$discord = "https://discord.gg/4Ef4mrQqPv"
-$X = "https://x.com/judecervera"
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
